@@ -1,0 +1,25 @@
+Kotlin, Java, C#, JavaScript, Scala, Groovy
+Groovy, Java
+JavaScript, Hypertalk 
+Java, C++, Smalltalk-80
+C#, C++, Java, Pascal
+C++, C with Classes, Simula 67
+C, B
+ANSI C, C, C++
+B, BCPL
+BCPL, Algol 58
+Scala, Java, LISP
+Groovy, Java
+Simula 67, Simula
+C with Classes, Simula 67
+Algol 58, Fortran
+Python, Modula-3, ANSI C, ABC
+Haskell, Scheme
+Scheme, Lisp, Algol 58
+Pascal, AlgolW
+Modula-2, Pascal
+Modula-3, Modula-2
+Oberon, Modula-3
+Algol 68, Algol 60
+Algol 60, Algol 58
+Algol 58, Fortran
